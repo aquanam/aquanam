@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @aquanam
+- 👀 I’m interested in applications that people can have fun with.
+- 🌱 I’m currently learning Python (bit of the advanced side).
+- 💞️ I’m looking to collaborate on no one really, but feel free to send me a message if you want to.
+- 📫 If you want to reach me, use my email at hellothere1452@outlook.com
